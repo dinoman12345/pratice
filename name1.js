@@ -1,5 +1,5 @@
 function you1(){
-    window.location="index1.html";
+    window.location="index.html";
 }
 function helmet1(){
 y=localStorage.getItem("dino");
